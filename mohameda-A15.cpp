@@ -1,6 +1,4 @@
 // Binary Search Tree
-// Originally created by Dr. Jan Pearce
-// Modified by Mario Nakazawa
 
 // Your name: Abdirahman Mohamed
 
